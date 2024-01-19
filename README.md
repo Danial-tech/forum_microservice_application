@@ -17,4 +17,4 @@
 
 # Deployment
 
-For more information about configuration and deployment, please view the [documentation](/docs/README.md) located in the ``/docs`` folder.
+The application can be deployed to Kubernetes using Skaffold
