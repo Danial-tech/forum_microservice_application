@@ -17,4 +17,4 @@
 
 # Deployment
 
-The application can be deployed to Kubernetes using Skaffold
+The application is deployed to Kubernetes using Skaffold
